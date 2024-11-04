@@ -1,0 +1,7 @@
+# Install
+/node_modules
+
+package-lock.json
+
+# File with passwords
+.env

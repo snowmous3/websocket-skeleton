@@ -1,0 +1,14 @@
+.content-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.content-header-image {
+  cursor: pointer;
+  fill: #fff;
+  width: 20px;
+  height: 20px;
+}
